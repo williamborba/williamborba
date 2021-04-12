@@ -9,6 +9,10 @@ Sou desenvolvedor web backend e mobile, aqui estarão alguns de meus trabalhos e
 
 Meu principal projeto é a plataforma de adoção **Pets Carentes App** que está gratuitamente disponível para dispositivos com Android, você pode baixar aqui - https://play.google.com/store/apps/details?id=com.willcode.petscarentes
 
+| Logo **Pets Carentes App** | Link para Baixar |
+| --- | --- |
+| [![logo-novo-badge](https://user-images.githubusercontent.com/315857/114408474-d3b5f000-9b7f-11eb-8993-8a89f953d133.png)](https://play.google.com/store/apps/details?id=com.willcode.petscarentes) | [![GooglePlay Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.willcode.petscarentes) |
+
 Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vontade para me convidar e conversar sobres seus projetos.
 
 ### Tecnologias que sigo:
