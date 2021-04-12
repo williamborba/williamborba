@@ -7,13 +7,13 @@
 
 Sou desenvolvedor web backend e mobile, aqui estarão alguns de meus trabalhos e projetos. Sinta-se a vontade para perguntar e tirar dúvidas ou enviar sugestões.
 
+Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vontade para me convidar e conversar sobres seus projetos.
+
 Meu principal projeto é a plataforma de adoção **Pets Carentes App** que está gratuitamente disponível para dispositivos com Android, você pode baixar aqui - https://play.google.com/store/apps/details?id=com.willcode.petscarentes
 
 | Logo **Pets Carentes App** | Link para Baixar |
 | --- | --- |
 | [![logo-novo-badge](https://user-images.githubusercontent.com/315857/114408474-d3b5f000-9b7f-11eb-8993-8a89f953d133.png)](https://play.google.com/store/apps/details?id=com.willcode.petscarentes) | [![GooglePlay Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.willcode.petscarentes) |
-
-Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vontade para me convidar e conversar sobres seus projetos.
 
 ### Tecnologias que sigo:
 
@@ -38,7 +38,8 @@ Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vo
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/)
 [![Redis](https://img.shields.io/badge/-REDIS-white?style=for-the-badge&logo=redis)](https://redis.io/)
+
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
