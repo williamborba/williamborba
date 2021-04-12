@@ -7,7 +7,7 @@
 
 Sou desenvolvedor web backend e mobile, aqui estarão alguns de meus trabalhos e projetos. Sinta-se a vontade para perguntar e tirar dúvidas ou enviar sugestões.
 
-Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vontade para me convidar e conversar sobres seus projetos.
+Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vontade para me convidar e conversar sobre seus projetos.
 
 Meu principal projeto é a plataforma de adoção **Pets Carentes App** que está gratuitamente disponível para dispositivos com Android, você pode baixar aqui - https://play.google.com/store/apps/details?id=com.willcode.petscarentes
 
