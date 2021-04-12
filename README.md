@@ -11,7 +11,7 @@ Meu principal projeto é a plataforma de adoção **Pets Carentes App** que est�
 
 Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vontade para me convidar e conversar sobres seus projetos.
 
-### Técnologias que sigo:
+### Tecnologias que sigo:
 
 #### Linguagens e Frameworks
 
