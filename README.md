@@ -11,7 +11,7 @@ Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vo
 
 Meu principal projeto é a plataforma de adoção **Pets Carentes App** que está gratuitamente disponível para dispositivos com Android, você pode baixar aqui - https://play.google.com/store/apps/details?id=com.willcode.petscarentes
 
-| Logo **Pets Carentes App** | Link para Baixar |
+| **Pets Carentes App** | Plataforma |
 | --- | --- |
 | [![logo-novo-badge](https://user-images.githubusercontent.com/315857/114410246-994d5280-9b81-11eb-836e-b007d52c9a30.png)](https://play.google.com/store/apps/details?id=com.willcode.petscarentes) | [![GooglePlay Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.willcode.petscarentes) |
 
