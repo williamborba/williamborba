@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**williamborba/williamborba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor web backend e mobile, aqui estarão alguns de meus trabalhos e projetos. Sinta-se a vontade para perguntar e tirar dúvidas ou enviar sugestões.
 
-Here are some ideas to get you started:
+Meu principal projeto é a plataforma de adoção **Pets Carentes App** que está gratuitamente disponível para dispositivos com Android, você pode baixar aqui - https://play.google.com/store/apps/details?id=com.willcode.petscarentes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Técnologias que sigo:
+* Python & Django
+* MongoDb
+* Postgres
+* Redis
+* Docker
+* Flutter
+
+Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vontade para me convidar e conversar sobres seus projetos.
