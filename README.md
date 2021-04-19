@@ -31,7 +31,7 @@ Meu principal projeto é a plataforma de adoção **Pets Carentes App** que est�
 
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://pt.wikipedia.org/wiki/Markdown)
 [![ShellScript](https://img.shields.io/badge/-SHELL%20SCRIPT-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://pt.wikipedia.org/wiki/Shell_script)
-[![ShellScript](https://img.shields.io/badge/-SELENIUM-green?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Selenium](https://img.shields.io/badge/-SELENIUM-green?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
 #### Base de dados e Infra
 
