@@ -14,12 +14,11 @@ Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vo
 * **Pets Carentes App** Aplicativo para adoção de animais, recursos como camêra, geolocalização, push, firebase, services, e entre outros foram utilizados neste desenvolvimento (atualmente fora do ar).
 * **FuTe** Aplicativo para organização de jogos de futebol com os amigos, recursos avançados do uso do firebase, como banco de dados realtime são utilizados no desenvolvimento.
 
-https://drive.google.com/file/d/1Z0UeFY-x_afET2smU7YWp3zPj7Yren4w/view?usp=sharing
-
-| **Pets Carentes App** | Plataforma |
+| Pets Carentes App | Plataforma |
 | --- | --- |
 | [![logo-novo-badge](https://user-images.githubusercontent.com/315857/114410246-994d5280-9b81-11eb-836e-b007d52c9a30.png)](https://play.google.com/store/apps/details?id=com.willcode.petscarentes) | [![GooglePlay Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.willcode.petscarentes) |
-| [![fute]([https://play-lh.googleusercontent.com/HK1XFhHd9N3W1W7bU86KHILgohD1DYQ-tl36tRKS9ddmCGWRs6QahessPIfWdbWL2g=w480-h960-rw](https://lh3.googleusercontent.com/drive-viewer/AKGpihYCLAk7IJarqYTOqopB-fY-uOm88a4p6hecYrvkv_NSWW-XNN8sbGzzSDbhJ6cyDf0GqJTnNFmxoBOp3gblq2X5hZD-iv-9Z4A=s2560))]((https://play.google.com/store/apps/details?id=com.willcode.football_community_app)) | [![GooglePlay Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)]([https://play.google.com/store/apps/details?id=com.willcode.petscarentes](https://play.google.com/store/apps/details?id=com.willcode.football_community_app)) |
+| **FuTe** | **Plataforma** |
+| [![fute](https://lh3.googleusercontent.com/drive-viewer/AKGpihYCLAk7IJarqYTOqopB-fY-uOm88a4p6hecYrvkv_NSWW-XNN8sbGzzSDbhJ6cyDf0GqJTnNFmxoBOp3gblq2X5hZD-iv-9Z4A=s2560)](https://play.google.com/store/apps/details?id=com.willcode.football_community_app) | [![GooglePlay Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.willcode.football_community_app) |
 
 ### Tecnologias que sigo:
 
