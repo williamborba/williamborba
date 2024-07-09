@@ -9,11 +9,15 @@ Sou desenvolvedor web backend e mobile, aqui estarão alguns de meus trabalhos e
 
 Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vontade para me convidar e conversar sobre seus projetos.
 
-Meu principal projeto é a plataforma de adoção **Pets Carentes App** que está gratuitamente disponível para dispositivos com Android, você pode baixar aqui - https://play.google.com/store/apps/details?id=com.willcode.petscarentes
+#### Projetos
+
+* **Pets Carentes App** Aplicativo para adoção de animais, recursos como camêra, geolocalização, push, firebase, services, e entre outros foram utilizados neste desenvolvimento (atualmente fora do ar).
+* **FuTe** Aplicativo para organização de jogos de futebol com os amigos, recursos avançados do uso do firebase, como banco de dados realtime são utilizados no desenvolvimento.
 
 | **Pets Carentes App** | Plataforma |
 | --- | --- |
 | [![logo-novo-badge](https://user-images.githubusercontent.com/315857/114410246-994d5280-9b81-11eb-836e-b007d52c9a30.png)](https://play.google.com/store/apps/details?id=com.willcode.petscarentes) | [![GooglePlay Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.willcode.petscarentes) |
+| [![fute](https://play-lh.googleusercontent.com/HK1XFhHd9N3W1W7bU86KHILgohD1DYQ-tl36tRKS9ddmCGWRs6QahessPIfWdbWL2g=w480-h960-rw)]((https://play.google.com/store/apps/details?id=com.willcode.football_community_app)) | [![GooglePlay Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)]([https://play.google.com/store/apps/details?id=com.willcode.petscarentes](https://play.google.com/store/apps/details?id=com.willcode.football_community_app)) |
 
 ### Tecnologias que sigo:
 
