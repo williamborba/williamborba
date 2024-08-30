@@ -18,7 +18,7 @@ Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vo
 
 | **App** | **Plataforma** |
 | --- | --- |
-| ![fute](https://lh3.googleusercontent.com/drive-viewer/AKGpihYCLAk7IJarqYTOqopB-fY-uOm88a4p6hecYrvkv_NSWW-XNN8sbGzzSDbhJ6cyDf0GqJTnNFmxoBOp3gblq2X5hZD-iv-9Z4A=s2560) | [![GooglePlay Badge](https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.willcode.football_community_app) <br> [![AppStore Badge](https://img.shields.io/badge/Apple%20Store-black?style=for-the-badge&logo=app-store)](https://apps.apple.com/br/app/fute/id6476427407?platform=iphone) |
+| ![fute](https://play-lh.googleusercontent.com/HK1XFhHd9N3W1W7bU86KHILgohD1DYQ-tl36tRKS9ddmCGWRs6QahessPIfWdbWL2g=w240-h480-rw) | [![GooglePlay Badge](https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.willcode.football_community_app) <br> [![AppStore Badge](https://img.shields.io/badge/Apple%20Store-black?style=for-the-badge&logo=app-store)](https://apps.apple.com/br/app/fute/id6476427407?platform=iphone) |
 
 ### Tecnologias que sigo:
 
