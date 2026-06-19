@@ -2,10 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-William%20Borba-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-borba-39716927/)
 [![Gmail Badge](https://img.shields.io/badge/-wborba.dev-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wborba.dev@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551982353047)
 [![GooglePlay Badge](https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/developer?id=Willcode)
 [![AppStore Badge](https://img.shields.io/badge/Apple%20Store-black?style=for-the-badge&logo=app-store)](https://apps.apple.com/br/developer/william-borba/id1726671067)
-
 
 Sou desenvolvedor web backend e mobile, aqui estarão alguns de meus trabalhos e projetos. Sinta-se a vontade para perguntar e tirar dúvidas ou enviar sugestões.
 
@@ -15,10 +13,12 @@ Tenho algum tempo livre para projetos interessantes ou comerciais, sinta-se a vo
 
 * **Pets Carentes App** Aplicativo para adoção de animais, recursos como camêra, geolocalização, push, firebase, services, e entre outros foram utilizados neste desenvolvimento (atualmente fora do ar).
 * **FuTe** Aplicativo para organização de jogos de futebol com os amigos, recursos avançados do uso do firebase, como banco de dados realtime são utilizados no desenvolvimento.
+* **Pocket Master** Companheiro definitivo para aventuras de RPG de mesa, agora diretamente no seu bolso! 📱 Utilizando Inteligência Artificial avançada, o app atua como um Mestre de Jogo (DM) dinâmico, criando narrativas épicas e personalizadas baseadas em cada uma de suas escolhas.
 
 | **App** | **Plataforma** |
 | --- | --- |
-| ![fute](https://play-lh.googleusercontent.com/HK1XFhHd9N3W1W7bU86KHILgohD1DYQ-tl36tRKS9ddmCGWRs6QahessPIfWdbWL2g=w240-h480-rw) | [![GooglePlay Badge](https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.willcode.football_community_app) <br> [![AppStore Badge](https://img.shields.io/badge/Apple%20Store-black?style=for-the-badge&logo=app-store)](https://apps.apple.com/br/app/fute/id6476427407?platform=iphone) |
+| ![FuTe](https://play-lh.googleusercontent.com/HK1XFhHd9N3W1W7bU86KHILgohD1DYQ-tl36tRKS9ddmCGWRs6QahessPIfWdbWL2g=w240-h480-rw) | [![GooglePlay Badge](https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.willcode.football_community_app) <br> [![AppStore Badge](https://img.shields.io/badge/Apple%20Store-black?style=for-the-badge&logo=app-store)](https://apps.apple.com/br/app/fute/id6476427407?platform=iphone) |
+| ![Pocket Master](https://play-lh.googleusercontent.com/XRXbgK4CeUk5Wll2rscjbs50FpPPy4YeaLP38Hu6VCe3dRRKntqXefojOR442Uaxov_x49usc7H3Y5GMONLZkg=w240-h480-rw) | [![GooglePlay Badge](https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.willcode.app_master_rpg) |
 
 ### Tecnologias que sigo:
 
